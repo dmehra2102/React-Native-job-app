@@ -5,13 +5,11 @@ For each job listing, there is a detailed description that provides information 
 
 <img src="https://user-images.githubusercontent.com/97445793/226334332-dafc12d6-bdc0-42ba-bd53-d18728cfb0c3.jpeg" width="200" height="400" />
 
-<img src="https://user-images.githubusercontent.com/97445793/226334267-f4363750-17ba-46d1-b8d2-45cde0ceab1e.jpeg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/97445793/226334372-95bb526e-f783-4189-8ea5-0be1af4fa912.jpeg" width="200" height="400" />
 
 <img src="https://user-images.githubusercontent.com/97445793/226334290-cfc9f53e-b1fa-4265-a887-7f0f07d7aba7.jpeg" width="200" height="400" />
 
 <img src="https://user-images.githubusercontent.com/97445793/226334311-e0e66c21-8711-427e-ac34-eab928cbb246.jpeg" width="200" height="400" />
-
-<img src="https://user-images.githubusercontent.com/97445793/226334372-95bb526e-f783-4189-8ea5-0be1af4fa912.jpeg" width="200" height="400" />
 
 <img src="https://user-images.githubusercontent.com/97445793/226334363-12aaa4ec-c768-43d9-8e69-2b624bf3247b.jpeg" width="200" height="400" />
 
